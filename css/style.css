@@ -119,7 +119,7 @@ img{
 /* animation */
 
 .credit-card{
-    animation: animation-y 2s alternate infinite ;
+    animation: animation-y 1s alternate infinite ;
 }
 @keyframes animation-y{
     0%{
@@ -127,7 +127,7 @@ img{
         left: 50%;
     }
     100%{
-        top: 48%;
+        top: 47%;
         left:50%;  
     }
 }
